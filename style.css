@@ -1,0 +1,44 @@
+.nav-link {
+  background-color: inherit;
+  --transition-time: background-color 400ms;
+  padding: 15px;
+  margin-left: 0px;
+  margin-right: 1px;
+  margin-bottom: 25px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #121212;
+  font-family: Source Code Pro, system-ui;
+  top: 50%;
+  right: 50%;
+}
+
+.nav-link:hover {
+  background-color: #c4c4c4;
+  padding: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #111111;
+}
+
+html {
+  font-size: 19px;
+}
+
+body {
+  font-family: Source Code Pro, system-ui;
+  font-size: 1rem;
+  background-color: white;
+}
+
+
+div.navbar-nav {
+  list-style-type: none;
+  margin: -8px;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #c4c4c4;
+  margin-top: -1%;
+  text-decoration: none;
+  color: #111111;
+}
