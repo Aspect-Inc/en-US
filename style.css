@@ -33,17 +33,17 @@ body {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg-color: #171717;
+        --bg-color: #1A1A40;
         --text-color: #f5f5f5;
-        --sub-header-color: #c3c3c3;
+        --sub-header-color: #ebebeb;
     }
 }
 
 @media (prefers-color-scheme: light) {
     :root {
         --bg-color: #fff;
-        --text-color: #0f0f0f;
-        --sub-header-color: #404040;
+        --text-color: #000001;
+        --sub-header-color: #0a0a0a;
         
     }
 }
