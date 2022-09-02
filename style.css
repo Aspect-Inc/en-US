@@ -95,7 +95,6 @@ body {
     font-size: .875rem;
     font-weight: 600;
     line-height: 1.25rem;
-    padding: .75rem 1rem;
     text-align: center;
     text-decoration: none #D1D5DB solid;
     text-decoration-thickness: auto;
@@ -104,6 +103,8 @@ body {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+    margin: auto;
+    text-align: center;
   }
   
   .homepage-button:hover {
